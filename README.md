@@ -33,3 +33,6 @@
 ## Reading content
 - Tensorflow Documentation: https://www.tensorflow.org/api_docs/python/tf/estimator/BoostedTreesClassifier
 - Example of Boosted Tree: https://medium.com/tensorflow/how-to-train-boosted-trees-models-in-tensorflow-ca8466a53127
+
+## Research Paper Reference
+- https://examples.yourdictionary.com/basic-research-paper-format-examples.html
